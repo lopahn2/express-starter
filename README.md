@@ -1,4 +1,4 @@
-# express-quick-starter
+# express-starter
 
 This repository has been modified to exclude as much as possible the outdated JS syntax used by express-generator.
   

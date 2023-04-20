@@ -20,7 +20,7 @@ for await (const routeFile of routeFiles) {
 
 ## Usage
 ```git
-git remote add starter https://github.com/lopahn2/express-quick-starter.git
+git remote add starter https://github.com/lopahn2/express-starter.git
 git pull starter main
 ```
 ```npm

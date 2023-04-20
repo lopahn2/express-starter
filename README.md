@@ -21,6 +21,7 @@ for await (const routeFile of routeFiles) {
 ## 사용법
 ```git
 git remote add starter https://github.com/lopahn2/express-quick-starter.git
+git pull starter main
 ```
 ```npm
 npm i

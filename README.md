@@ -18,6 +18,12 @@ for await (const routeFile of routeFiles) {
 ```
 ### bin/www seperate Server
 
+### mySQL Connection append 23-05-07
+
+### signup/signin service append 23-05-07
+
+### verify token middleware append 23-05-07
+
 ## Usage
 ```git
 git remote add starter https://github.com/lopahn2/express-starter.git

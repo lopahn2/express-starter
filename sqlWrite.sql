@@ -1,4 +1,8 @@
-create database HIGHBALLY default character set utf8 collate utf8_general_ci;
+create database DB_NAME default character set utf8 collate utf8_general_ci;
+
+CREATE USER '새계정'@'localhost' IDENTIFIED BY '비밀번호';
+GRANT ALL PRIVILEGES ON *.* TO '새계정'@'localhost';
+FLUSH PRIVILEGES;
 
 CREATE TABLE user_auth_info (
  id        INT NOT NULL AUTO_INCREMENT,
